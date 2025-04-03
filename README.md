@@ -11,7 +11,6 @@ B Konekti allows you to connect with others by posting, uploading, or sharing co
 **3. Prohibited Conduct**
 
 At B Konekti, we have a zero-tolerance policy for objectionable content and abusive behavior. You agree not to:
-
 Post, upload, or share content that is illegal, harmful, threatening, abusive, harassing, defamatory, obscene, hateful, or discriminatory based on race, ethnicity, religion, or any other characteristic.
 Bully, stalk, or harass other users.
 Share explicit, pornographic, or graphically violent content.
