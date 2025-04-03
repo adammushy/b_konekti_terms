@@ -1,5 +1,32 @@
 **Terms & Conditions**  
 
+**1. Acceptance of Terms**
+
+By accessing or using B Konekti, you agree to be bound by these Terms and Conditions ("Terms"). If you do not agree, you may not use the app. We reserve the right to update these Terms at any time, and your continued use signifies acceptance of those changes.
+
+**2. User-Generated Content**
+
+B Konekti allows you to connect with others by posting, uploading, or sharing content such as text, images, and other materials ("User Content"). You are fully responsible for the content you submit and ensuring it complies with these Terms.
+
+**3. Prohibited Conduct**
+
+At B Konekti, we have a zero-tolerance policy for objectionable content and abusive behavior. You agree not to:
+
+Post, upload, or share content that is illegal, harmful, threatening, abusive, harassing, defamatory, obscene, hateful, or discriminatory based on race, ethnicity, religion, or any other characteristic.
+Bully, stalk, or harass other users.
+Share explicit, pornographic, or graphically violent content.
+Impersonate others, send spam, or distribute harmful content (e.g., viruses, malware).
+Break any applicable laws or regulations.
+Violating these rules may lead to immediate removal of your content and termination of your account, at our sole discretion.
+
+**4. Content Moderation**
+
+We reserve the right to monitor, filter, and review User Content to keep B Konekti a safe and welcoming space. We may use automated tools and human moderators to detect and remove objectionable content. While we strive to maintain a positive environment, we are not required to pre-screen all content and are not liable for what users post.
+
+**5. Reporting**
+
+Reporting: If you see content that violates these Terms, use the "Report" feature in the app to let us know. We’ll review reports and take action within 24 hours, which may include removing content and ejecting the responsible user.
+
 These terms and conditions apply to the B Konekti app (hereby referred to as "Application") for mobile devices that was created by George Mushi (hereby referred to as "Service Provider") as a Free service.
 
 Upon downloading or utilizing the Application, you are automatically agreeing to the following terms. It is strongly advised that you thoroughly read and understand these terms prior to using the Application. Unauthorized copying, modification of the Application, any part of the Application, or our trademarks is strictly prohibited. Any attempts to extract the source code of the Application, translate the Application into other languages, or create derivative versions are not permitted. All trademarks, copyrights, database rights, and other intellectual property rights related to the Application remain the property of the Service Provider.
