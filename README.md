@@ -22,9 +22,6 @@ Violating these rules may lead to immediate removal of your content and terminat
 
 We reserve the right to monitor, filter, and review User Content to keep B Konekti a safe and welcoming space. We may use automated tools and human moderators to detect and remove objectionable content. While we strive to maintain a positive environment, we are not required to pre-screen all content and are not liable for what users post.
 
-**5. Reporting**
-
-Reporting: If you see content that violates these Terms, use the "Report" feature in the app to let us know. We’ll review reports and take action within 24 hours, which may include removing content and ejecting the responsible user.
 
 These terms and conditions apply to the B Konekti app (hereby referred to as "Application") for mobile devices that was created by George Mushi (hereby referred to as "Service Provider") as a Free service.
 
