@@ -21,7 +21,7 @@ Violating these rules may lead to immediate removal of your content and terminat
 **4. Content Moderation**
 
 We reserve the right to monitor, filter, and review User Content to keep B Konekti a safe and welcoming space. We may use automated tools and human moderators to detect and remove objectionable content. While we strive to maintain a positive environment, we are not required to pre-screen all content and are not liable for what users post.
-
+**Note:** any content that is not safe (e.g. abusive, sexual harassment)
 
 These terms and conditions apply to the B Konekti app (hereby referred to as "Application") for mobile devices that was created by George Mushi (hereby referred to as "Service Provider") as a Free service.
 
